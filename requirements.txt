@@ -1,6 +1,0 @@
-pandas
-streamlit
-pyserial
-scikit-learn
-joblib
-plotly
