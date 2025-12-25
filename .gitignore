@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.log
+*.aux
+*.out
+*.toc
+*.synctex.gz
+Overleaf_Export/
+air_quality_log.csv
+.vscode/
+venv/
